@@ -2,8 +2,15 @@
   "name": "Chill Trump",
   "symbol": "CHILLT",
   "description": "The official token for those who believe in relaxed vibes, strong memes, and unstoppable energy. No drama, just success – because winning never gets old. Trade $CHILLT and keep the momentum going! 🚀",
-  "image": "https://yokogame.site/wp-content/uploads/2025/02/metadata.png?_t=1743210632",
-  "website": "https://coinfast.fun/",
-  "twitter": "@CoinFast",
-  "telegram": "https://t.me/CoinFast"
+  "image": "https://yokogame.site/wp-content/uploads/2025/02/metadata.png",
+  "external_url": "https://coinfast.fun",
+  "social_links": {
+    "twitter": "https://twitter.com/CoinFast",
+    "telegram": "https://t.me/CoinFast"
+  },
+  "extensions": {
+    "website": "https://coinfast.fun",
+    "coingecko_id": "",
+    "whitepaper": ""
+  }
 }
